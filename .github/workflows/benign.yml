@@ -1,0 +1,8 @@
+name: GH071 inert
+on:
+  workflow_dispatch:
+jobs:
+  inert:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo GH071_INERT

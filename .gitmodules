@@ -1,0 +1,3 @@
+[submodule "inert"]
+	path = vendor/inert
+	url = https://github.com/StealthyBugs/gh071-revisit-src-11032013-0c6feb.git
